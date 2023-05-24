@@ -1,0 +1,19 @@
+.button2 {
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #f3aa4e;
+  border-width: 2px;
+  color: white;
+  margin: 6px;
+  background-color: black;
+}
+.buttonactive{
+    border-radius: 10px;
+  border-style: solid;
+  border-color: #f3aa4e;
+  border-width: 2px;
+  color: white;
+  margin: 6px;
+  background-color: #f3aa4e;
+
+}

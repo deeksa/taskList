@@ -1,0 +1,21 @@
+.container7 {
+  width: 45vw;
+  display: flex;
+  margin: 10px;
+  justify-content: space-between;
+  background-color: #323f4b;
+  border-radius: 10px;
+  padding: 10px;
+  align-items: center;
+  height: 8vh;
+}
+
+.container8 {
+  display: flex;
+  background-color: #f3aa4e;
+  height: 4vh;
+  align-items: center;
+  border-radius: 4px;
+  padding-left: 6px;
+  padding-right: 6px;
+}
